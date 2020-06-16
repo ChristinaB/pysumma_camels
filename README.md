@@ -1,5 +1,8 @@
 # pysumma_camels
 
+#### Workflow 0: Summa team members with access can click on this private resource (until further notice by data owners)
+[CAMELS SUMMA Demonstration Resource](https://www.hydroshare.org/resource/b4c7120f38e843c8bdfc137ea1609989/).  View the reources. Edit metadata.    {future option:  Open With blue button. Select MyBinder. }
+
 #### Workflow 1: Run a SUMMA model using CAMELS data.
  
 Go to HydroShare.  Groups. Search for a Compute Access Resource Group.
